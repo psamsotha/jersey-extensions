@@ -5,7 +5,7 @@ This project is a client of the feature developed in the sibling project
 `jersey-extension-framework`. Explanation of that project can be found in the blog
 [Creating Reusable Jersey Extensions][1]
 
-[1]: 
+[1]: http://paulsamsotha.blogspot.com/2015/10/creating-reusable-jersey-extensions.html
 
 To run the this project, you can use the `jetty-maven-plugin` included in the pom.xml
 or you can run it on your favorite Servlet container.
